@@ -24,3 +24,8 @@ korean ocr project
 ## Scene Text Detection
 1. [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch)
 2. [EAST](https://github.com/argman/EAST)
+
+## Custom Model
+![result3](https://user-images.githubusercontent.com/72369991/138848676-9901e8f2-873c-4c75-be56-89de71647177.jpg)
+![13_result](https://user-images.githubusercontent.com/72369991/138848688-b58c9d53-4303-4614-b310-bd5a88076d5d.jpg)
+![14_result](https://user-images.githubusercontent.com/72369991/138848693-f4121480-6be4-45f8-977a-e796fc705f17.jpg)
